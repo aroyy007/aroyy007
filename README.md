@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Arijit Roy</h1>
+<h1 align="center">Hi there 👋, I'm Arijit</h1>
 
 <h3 align="center">Unlocking the symphony of code, crafting elegant solutions one keystroke at a time</h3>
 
