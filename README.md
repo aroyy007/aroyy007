@@ -9,7 +9,7 @@
 
 <div align="center">
   <p><b>Profile Views</b></p>
-  <img src="https://profile-counter.glitch.me/godkingjay/count.svg" />
+  <img src="https://profile-counter.glitch.me/aroyy007/count.svg" />
 </div>
 
 <h2></h2>
@@ -18,13 +18,13 @@
 
 <h2 align="center"> Self-taught<img src="./assets/animated-flame-01.gif" height="24px"/> and passionate<img src="./assets/animated-flame-01.gif" height="24px"/> about coding! </h2><br>
 
--   👨‍💻 I'm Arijit(godkingjay)👋, a university student, I'm currently pursuing a Computer Science Degree. <br><br><br>
+-   👨‍💻 I'm Arijit 👋, a university student , I'm currently pursuing a Computer Science Degree. <br><br>
 
--   🌳 I’m currently learning C, C++, Python, JAVA! <br><br><br>
+-   🌳 I’m currently learning C, C++, Python, JAVA! <br><br>
 
--   🐾 I’m looking to network and make friends here! <br><br><br>
+-   🐾 I’m looking to network and make friends here! <br><br>
 
--   ☕ Interest: Science, Math, Coffee, and Coding. <br><br><br>
+-   ☕ Interest: Science, Math, Coffee, and Coding. <br><br>
 
 -   <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px"/> Hobbies: Sleeping, Reading, Watching Movies and Facebook. <br><br>
 
