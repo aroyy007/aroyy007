@@ -18,17 +18,17 @@
 
 <h2 align="center"> Self-taught<img src="./assets/animated-flame-01.gif" height="24px"/> and passionate<img src="./assets/animated-flame-01.gif" height="24px"/> about coding! </h2><br>
 
--   👨‍💻 I'm Arijit 👋, a university student , I'm currently pursuing a Computer Science Degree. <br><br>
+-   👨‍💻 I'm Arijit 👋, a University student , I'm currently pursuing a Computer Science Degree. <br>
 
--   🌳 I’m currently learning C, C++, Python, JAVA! <br><br>
+-   🌳 I’m currently learning C, C++, Python, JAVA! <br>
 
--   🐾 I’m looking to network and make friends here! <br><br>
+-   🐾 I’m looking to network and make friends here! <br>
 
--   ☕ Interest: Science, Math, Coffee, and Coding. <br><br>
+-   ☕ Interest: Science, Math, Coffee, and Coding. <br>
 
 -   <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px"/> Hobbies: Sleeping, Reading, Watching Movies and Facebook. <br><br>
 
-<h2></h2>
+
 
 <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
@@ -44,13 +44,7 @@
   <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2>
   <br>
   
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=godkingjay&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
-  <br>
-
-  <a href="https://wakatime.com/@godkingjay" target="_blank">
-    <img src="https://github-readme-stats-godkingjay.vercel.app/api/wakatime?username=godkingjay&theme=radical&layout=compact" alt="Wakatime Coding Time" width="540px">
-  </a>
-  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=aroyy007&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
   
   <h2></h2>
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
@@ -59,22 +53,18 @@
 
 </div>
 
-<h2></h2>
-
-
-
 <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
 <div align="center">
   <h2> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=godkingjay&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
-  <img src="https://streak-stats.demolab.com?user=godkingjay&theme=radical" width="49%" alt="streaks graph" />
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=godkingjay&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aroyy007&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+  <img src="https://streak-stats.demolab.com?user=aroyy007&theme=radical" width="49%" alt="streaks graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aroyy007&theme=radical&show_icons=true&count_private=true" width="24%" alt="stats graph" />
 </div> <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=godkingjay&custom_title=GodkingJay's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="GodkingJay's Github Activity Graph" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aroyy007&custom_title=aroyy007's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="aroyy007's Github Activity Graph" width="100%">
 </div>
 
 </br>
@@ -84,11 +74,6 @@
 <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
-
-<h2></h2>
-
-<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
 <div align="center">
   <h2 align="center">✉️ Contact <img src="./assets/borderseparator.gif"/></h2>
@@ -107,5 +92,3 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="48px" /></a>
 </div>
 
-<!-- <img src="https://github.com/godkingjay/godkingjay/blob/output/github-snake-dark-neon-2.svg" width="100%" align="middle"/> -->
-<img src="./assets/animated-wave.svg" />
