@@ -48,7 +48,7 @@
   
   <h2></h2>
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-  <img src="https://skillicons.dev/icons?i=java,cpp,py,c,eclipse,vscode,ai,ps,pr" alt="skills logos" /> <br>
+  <img src="https://skillicons.dev/icons?i=java,cpp,py,c,html,css,js,eclipse,vscode,ai,ps,pr" alt="skills logos" /> <br>
   <h2></h2>
 
 </div>
