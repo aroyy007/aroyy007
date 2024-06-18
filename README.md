@@ -20,7 +20,7 @@
 
 -   👨‍💻 I'm Arijit 👋, a University student , I'm currently pursuing a Computer Science Degree. <br>
 
--   🌳 I’m currently learning C, C++, Python, JAVA! <br>
+-   🌳 I’m currently learning Python, JavaScript! <br>
 
 -   🐾 I’m looking to network and make friends here! <br>
 
@@ -48,7 +48,7 @@
   
   <h2></h2>
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-  <img src="https://skillicons.dev/icons?i=java,cpp,py,c,html,css,js,eclipse,vscode,ai,ps,pr" alt="skills logos" /> <br>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,nodejs,django,react,mysql,vscode,ai,ps,pr" alt="skills logos" /> <br>
   <h2></h2>
 
 </div>
@@ -58,7 +58,7 @@
 
 <div align="center">
   <h2> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=aroyy007&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=aroyy007&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><br>
   <img src="https://streak-stats.demolab.com?user=aroyy007&theme=radical" width="49%" alt="streaks graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aroyy007&theme=radical&show_icons=true&count_private=true" width="24%" alt="stats graph" />
 </div> <br>
@@ -69,7 +69,7 @@
 
 </br>
 
-<h2></h2>
+
 
 <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
