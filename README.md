@@ -33,9 +33,7 @@
 <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
-<div align="center">
-  <img src="./assets/pixel-neon.gif" alt="pixel guy using computer" width="100%" /><br>
-</div>
+
 
 <div align="center">
   <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
