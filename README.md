@@ -81,6 +81,8 @@
   &nbsp
   <a href="https://www.codechef.com/users/arijit_007" target="blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="48px" alt="Codechef" /></a>
+   &nbsp
+  <a href="https://leetcode.com/u/aroyy007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aroyy007" height="48px" width="48px" margin="0" padding = "0" /></a>
   &nbsp
   <a href="https://www.linkedin.com/in/arijit-roy-3004ar" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="48px" alt="LinkedIn"/>
