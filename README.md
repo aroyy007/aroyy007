@@ -28,10 +28,9 @@
 
 -   <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px"/> Hobbies: Sleeping, Reading, Watching Movies and Facebook. <br><br>
 
-
-
-<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+<p align="center" style="width: 100%;">
+    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/aroyy007/aroyy007/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="aroyy007" />
+</p>
 
 
 
