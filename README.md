@@ -55,7 +55,7 @@
 <div align="center">
   <h2> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
   <img src="https://github-profile-trophy.vercel.app/?username=aroyy007&theme=radical&no-frame=true&no-bg=true&row=1&column=5" width="60%" alt="Trophy" align="middle" /> <br><br>
-  <img src="https://streak-stats.demolab.com?user=aroyy007&theme=radical" width="49%" alt="streaks graph" />
+<!--   <img src="https://streak-stats.demolab.com?user=aroyy007&theme=radical" width="49%" alt="streaks graph" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aroyy007&theme=radical&show_icons=true&count_private=true" width="24%" alt="stats graph" />
 </div> <br>
 
