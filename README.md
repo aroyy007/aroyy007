@@ -71,18 +71,18 @@
   <h2 align="center">✉️ Contact <img src="./assets/borderseparator.gif"/></h2>
   &nbsp
   <a href="https://codeforces.com/profile/arijit.roy0328" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="48px" alt="Codeforce" /></a>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="48px" height="48px" alt="Codeforce" /></a>
   &nbsp
   <a href="https://www.codechef.com/users/arijit_007" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="48px" alt="Codechef" /></a>
-   &nbsp
-  <a href="https://leetcode.com/u/aroyy007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aroyy007" height="48px" width="48px" margin="0" padding = "0" /></a>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="48px" height="48px" alt="Codechef" /></a>
+  &nbsp
+  <a href="https://leetcode.com/u/aroyy007/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="48px" height="48px" alt="aroyy007" /></a>
   &nbsp
   <a href="https://www.linkedin.com/in/arijit-roy-3004ar" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="48px" alt="LinkedIn"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="48px" height="48px" alt="LinkedIn"/></a>
   &nbsp
   <a href="https://discord.gg/fdPXFcrmAF" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="48px" /></a>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="48px" height="48px" alt="Discord" /></a>
 </div>
 
