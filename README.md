@@ -3,7 +3,7 @@
 <div align="center">
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Arijit+and+Welcome+to+my+Profile!" alt="Hey, I'm Arijit and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
-  <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
+  <img src="https://komarev.com/ghpvc/?username=aroyy007&color=brightgreen&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
 <img src="./assets/borderseparator.gif" width="100%"/>
 
