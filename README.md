@@ -72,14 +72,14 @@ A small project city inspired by my home, Chattogram. The buildings represent my
   <img src="assets/harbor/current-light.svg" width="100%" alt="Signal Harbor: Arijit's Chattogram-inspired project city, generated from public GitHub activity">
 </picture>
 
-<p align="center">
+<!-- <p align="center">
   <a href="views/dawn.md">Dawn</a> ·
   <a href="views/day.md">Day</a> ·
   <a href="views/dusk.md">Dusk</a> ·
   <a href="views/night.md">Night</a>
   <br>
   <sub>The default sky follows Bangladesh time, refreshed every six hours.</sub>
-</p>
+</p> -->
 
 <details>
   <summary>How the harbor grows</summary>
