@@ -1,0 +1,59 @@
+name: Refresh profile visuals
+
+on:
+  schedule:
+    # 06:20, 12:20, 18:20 and 00:20 in Bangladesh.
+    - cron: "20 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/profile-visuals.yml
+      - scripts/render_harbor.py
+      - tests/test_harbor.py
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-visuals
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    if: github.ref_name == github.event.repository.default_branch
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out the profile
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+
+      - name: Check the harbor generator
+        run: python3 -m unittest discover -s tests -v
+
+      - name: Generate Arijit's golden koi
+        uses: yalongwastaken/git-koi@7305e9b1fadee6f43d3b4fa543a25d4cde79856e # v1
+        with:
+          login: aroyy007
+          body: gold
+          output-dir: koi
+
+      - name: Redraw Signal Harbor from the same public history
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/render_harbor.py --snapshot "$RUNNER_TEMP/koi-snapshot.json"
+
+      - name: Commit changed visuals
+        shell: bash
+        run: |
+          set -euo pipefail
+          git add assets/harbor assets/activity-dark.svg assets/activity-light.svg data/harbor.json views koi/koi.gif
+          if git diff --cached --quiet; then
+            echo "Profile visuals are unchanged."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit --quiet --message "profile: refresh Signal Harbor and koi"
+          git pull --rebase
+          git push --quiet

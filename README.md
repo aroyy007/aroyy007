@@ -1,80 +1,131 @@
-<img src="./assets/pixel-night-banner.gif" align="middle" alt="Banner" width="100%"/>
-<img src="./assets/borderseparator.gif" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img src="assets/header-light.svg" width="100%" alt="Arijit Roy — full-stack development, applied AI, and IoT">
+</picture>
+
 <div align="center">
-  <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Arijit+and+Welcome+to+my+Profile!" alt="Hey, I'm Arijit and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
-  <img src="https://komarev.com/ghpvc/?username=aroyy007&color=brightgreen&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=24&amp;duration=2800&amp;pause=1800&amp;color=F1FB55&amp;center=true&amp;vCenter=true&amp;width=940&amp;height=56&amp;lines=Hey%2C+I%27m+Arijit.+Welcome+to+my+profile!;Full-stack+development+%C2%B7+Applied+AI+%C2%B7+IoT">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=24&amp;duration=2800&amp;pause=1800&amp;color=17201B&amp;center=true&amp;vCenter=true&amp;width=940&amp;height=56&amp;lines=Hey%2C+I%27m+Arijit.+Welcome+to+my+profile!;Full-stack+development+%C2%B7+Applied+AI+%C2%B7+IoT" width="94%" alt="Hey, I'm Arijit. Welcome to my profile! Full-stack development, applied AI, and IoT.">
+  </picture>
+  <p>
+    <img src="assets/animated-flame.svg" width="14" height="20" alt="">
+    &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=aroyy007&amp;color=626b18&amp;style=flat-square&amp;label=Profile+views" alt="Profile view counter">
+    &nbsp;
+    <img src="assets/animated-flame.svg" width="14" height="20" alt="">
+  </p>
 </div>
-<img src="./assets/borderseparator.gif" width="100%"/>
 
-<!-- <div align="center">
-  <p><b>Profile Views</b></p>
-  <img src="https://profile-counter.glitch.me/aroyy007/count.svg" />
-</div> -->
+# Full-stack developer · Applied AI
 
-<h2></h2>
+I build web applications and AI tools, with projects in student learning, campus communities, and environmental monitoring. My research explores communication-efficient federated learning for medical imaging.
 
-<img align="right" src="./assets/vaporwave-aesthetic.gif" height="560px" alt="pixel city image">
+**[Portfolio](https://www.arijitroy.me/)** · **[LinkedIn](https://www.linkedin.com/in/arijit-roy-3004ar/)** · **[Email](mailto:contact@arijitroy.me)**
 
-<h2 align="center"> Self-taught<img src="./assets/animated-flame-01.gif" height="24px"/> and passionate<img src="./assets/animated-flame-01.gif" height="24px"/> about coding! </h2><br>
+<!-- ## Featured work
 
--   👨‍💻 I'm Arijit 👋, a University student , I'm currently pursuing a Computer Science Degree. <br>
+| Project | What I built | Stack |
+| :--- | :--- | :--- |
+| **[ML Study Buddy](https://github.com/aroyy007/ML_Study_Buddy)** | A RAG study assistant with document retrieval, voice interaction, and domain-tuned embeddings. | Next.js · FastAPI · LangChain · FAISS |
+| **[AcademiaConnect](https://github.com/aroyy007/AcademiaConnect)** | A university social platform with EDU-email registration, admin approval, student posts, and class routines. | React · TypeScript · Express · MongoDB |
+| **[Air Quality Monitoring System](https://github.com/aroyy007/Air_Quality_Monitoring_System)** | An IoT monitoring system that connects gas sensors to an AQI dashboard, historical readings, and email alerts. | Arduino · Node.js · React · MongoDB |
 
--   🌳 I’m currently learning Python, JavaScript! <br>
+[Explore my repositories →](https://github.com/aroyy007?tab=repositories) -->
 
--   🐾 I’m looking to network and make friends here! <br>
 
--   ☕ Interest: Science, Math, Coffee, and Coding. <br>
+## Languages, frameworks & tools
 
--   <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="16" height="16"/> Hobbies: Sleeping, Reading, Watching Movies. <br><br>
+<table align="center">
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts&amp;theme=dark"><img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts&amp;theme=light" height="40" alt="C, C++, Java, Python, JavaScript, TypeScript"></picture></td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,redux&amp;theme=dark"><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,redux&amp;theme=light" height="40" alt="HTML, CSS, React, Next.js, Tailwind CSS, Redux"></picture></td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,fastapi,django&amp;theme=dark"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django&amp;theme=light" height="40" alt="Node.js, Express, FastAPI, Django"></picture></td>
+  </tr>
+  <tr>
+    <td><strong>AI &amp; data</strong></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,mongodb,mysql,firebase&amp;theme=dark"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,mongodb,mysql,firebase&amp;theme=light" height="40" alt="PyTorch, TensorFlow, scikit-learn, MongoDB, MySQL, Firebase"></picture></td>
+  </tr>
+  <tr>
+    <td><strong>Tools &amp; creative</strong></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,arduino,ps,pr&amp;theme=dark"><img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,ps,pr&amp;theme=light" height="40" alt="Git, GitHub, VS Code, Arduino, Photoshop, Premiere Pro"></picture></td>
+  </tr>
+</table>
 
-<p align="center" style="width: 100%;">
-    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/aroyy007/aroyy007/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="aroyy007" />
+For retrieval and language-model applications, I also work with **Hugging Face, LangChain, and FAISS**.
+
+
+## Signal Harbor
+
+A small project city inspired by my home, Chattogram. The buildings represent my work in web development, AI, and IoT; the waterfront lights follow my contributions.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/harbor/current-dark.svg">
+  <img src="assets/harbor/current-light.svg" width="100%" alt="Signal Harbor: Arijit's Chattogram-inspired project city, generated from public GitHub activity">
+</picture>
+
+<p align="center">
+  <a href="views/dawn.md">Dawn</a> ·
+  <a href="views/day.md">Day</a> ·
+  <a href="views/dusk.md">Dusk</a> ·
+  <a href="views/night.md">Night</a>
+  <br>
+  <sub>The default sky follows Bangladesh time, refreshed every six hours.</sub>
 </p>
 
-<div align="center">
-  <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-  <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
-  <!-- 
-  <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2>
-  <br> -->
-  <!-- 
-  <img src="https://github-readme-stats.vercel.app/api?username=aroyy007&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
-  -->
+<details>
+  <summary>How the harbor grows</summary>
+  <p>Each building is one of my featured repositories, with height based on repository size. The waterfront is a calendar: one light per day, brighter when there are more contributions. The counters come from my public GitHub activity through the last complete UTC day.</p>
+  <p>Port cranes, hills, and sensor antennas connect the scene to Chattogram and my projects. This is original artwork and code, inspired by <a href="https://github.com/vineetjk/vineetjk">Vineet's Commit City</a>.</p>
+</details>
 
-  <h2></h2>
-  <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,nodejs,django,react,mysql,vscode,mongodb,ps,pr" alt="skills logos" /> <br>
-  <h2></h2>
-</div>
+### The harbor koi
 
-<!-- <div align="center">
-  <h2> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=aroyy007&theme=radical&no-frame=true&no-bg=true&row=1&column=5" width="60%" alt="Trophy" align="middle" /> <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aroyy007&theme=radical&show_icons=true&count_private=true" width="24%" alt="stats graph" />
-</div> <br>
--->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aroyy007&custom_title=aroyy007's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="aroyy007's Github Activity Graph" width="100%">
-</div> 
+<table>
+  <tr>
+    <td align="center" width="280"><img src="koi/koi.gif" width="256" alt="Arijit's golden pixel-art koi, generated from his public GitHub history"></td>
+    <td>
+      <strong>A little life in the lab.</strong>
+      <p>My languages color it, contributions grow it, and recent activity shapes how it swims.</p>
+      <sub>Generated from my account with <a href="https://github.com/yalongwastaken/git-koi">Git Koi</a>.</sub>
+    </td>
+  </tr>
+</table>
 
-</br>
+## GitHub activity
 
-<div align="center">
-  <h2 align="center">✉️ Contact <img src="./assets/borderseparator.gif"/></h2>
-  &nbsp
-  <a href="https://codeforces.com/profile/arijit.roy0328" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="48px" height="48px" alt="Codeforce" /></a>
-  &nbsp
-  <a href="https://www.codechef.com/users/arijit_007" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="48px" height="48px" alt="Codechef" /></a>
-  &nbsp
-  <a href="https://leetcode.com/u/aroyy007/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="48px" height="48px" alt="aroyy007" /></a>
-  &nbsp
-  <a href="https://www.linkedin.com/in/arijit-roy-3004ar" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="48px" height="48px" alt="LinkedIn"/></a>
-  &nbsp
-  <a href="https://discord.gg/fdPXFcrmAF" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="48px" height="48px" alt="Discord" /></a>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aroyy007/aroyy007/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/aroyy007/aroyy007/output/github-contribution-grid-snake.svg" width="100%" alt="An animated snake moving through my GitHub contribution calendar">
+</picture>
+
+<details>
+  <summary>Activity graph · the last 31 days</summary>
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
+    <img src="assets/activity-light.svg" width="100%" alt="Arijit's GitHub contribution activity over the last 31 complete days">
+  </picture>
+</details>
+
+## Let's connect
+
+I'm open to full-stack development and applied AI opportunities, freelance projects, and research collaboration.
+
+Have something in mind? [Email me](mailto:contact@arijitroy.me) or [connect on LinkedIn](https://www.linkedin.com/in/arijit-roy-3004ar/).
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arijit-roy-3004ar/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat&amp;logo=linkedin&amp;logoColor=0A66C2" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/u/aroyy007/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=flat&amp;logo=leetcode&amp;logoColor=FFA116" alt="LeetCode"></a>
+  <a href="https://codeforces.com/profile/arijit.roy0328"><img src="https://img.shields.io/badge/Codeforces-0D1117?style=flat&amp;logo=codeforces&amp;logoColor=1F8ACB" alt="Codeforces"></a>
+  <a href="https://www.codechef.com/users/arijit_007"><img src="https://img.shields.io/badge/CodeChef-0D1117?style=flat&amp;logo=codechef&amp;logoColor=white" alt="CodeChef"></a>
+</p>
+<p align="center"><sub>Curious minds, thoughtful engineering, and good coffee are always welcome.</sub></p>

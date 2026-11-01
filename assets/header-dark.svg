@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Arijit Roy</title>
+  <desc id="desc">Full-stack development, applied AI, and IoT. Original circuit illustration connecting web, AI, and sensor nodes.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#292d2e" stroke-width="0.7"/>
+      <rect x="0" y="0" width="2" height="2" fill="#b3b7b8" opacity="0.35"/>
+    </pattern>
+  </defs>
+  <style>
+    text { font-family: Arial, Helvetica, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    @media (prefers-reduced-motion: reduce) { .packet { display: none; } }
+  </style>
+  <rect x="1" y="1" width="1198" height="318" fill="#111314" stroke="#f7f5ed" stroke-width="2"/>
+  <rect x="2" y="2" width="1196" height="316" fill="url(#grid)"/>
+  <path d="M32 32h18M32 32v18M1168 32h-18M1168 32v18M32 288h18M32 288v-18M1168 288h-18M1168 288v-18" fill="none" stroke="#f7f5ed" stroke-width="2"/>
+  <text x="60" y="62" fill="#b3b7b8" class="mono" font-size="14" letter-spacing="2">AR / 007</text>
+  <path d="M175 50h32" stroke="#b3b7b8"/>
+  <text x="222" y="62" fill="#b3b7b8" class="mono" font-size="14" letter-spacing="1.5">SOFTWARE + RESEARCH</text>
+  <text x="56" y="169" fill="#f7f5ed" font-size="84" font-weight="800" letter-spacing="-3">ARIJIT ROY</text>
+  <rect x="60" y="199" width="553" height="39" fill="#f1fb55" stroke="#151718" stroke-width="1.5"/>
+  <text x="76" y="224" fill="#151718" class="mono" font-size="17" font-weight="700">FULL STACK / APPLIED AI / IoT</text>
+  <text x="60" y="272" fill="#b3b7b8" class="mono" font-size="15">arijitroy.me</text>
+  <text x="609" y="272" fill="#b3b7b8" class="mono" font-size="13" text-anchor="end">CHATTOGRAM, BD</text>
+  <g stroke="#b3b7b8" stroke-width="2" fill="none">
+    <path d="M755 88h52l32 32h31"/>
+    <path d="M755 160h115"/>
+    <path d="M755 232h52l32-32h31"/>
+    <path d="M1000 160h68l24-24h42"/>
+    <path d="M935 106V70l25-25h67"/>
+    <path d="M935 214v40l24 24h68"/>
+  </g>
+  <g fill="#1b1f20" stroke="#f7f5ed" stroke-width="1.5">
+    <rect x="690" y="67" width="66" height="42"/>
+    <rect x="690" y="139" width="66" height="42"/>
+    <rect x="690" y="211" width="66" height="42"/>
+  </g>
+  <g fill="#f7f5ed" text-anchor="middle" class="mono" font-size="14" font-weight="700">
+    <text x="723" y="94" class="mono">WEB</text>
+    <text x="723" y="166" class="mono">AI</text>
+    <text x="723" y="238" class="mono">IoT</text>
+  </g>
+  <rect x="870" y="106" width="130" height="108" fill="#f7f5ed"/>
+  <rect x="880" y="116" width="110" height="88" fill="#111314" stroke="#f1fb55"/>
+  <text x="935" y="164" fill="#f7f5ed" font-size="32" font-weight="800" text-anchor="middle">AR</text>
+  <text x="935" y="188" fill="#b3b7b8" class="mono" font-size="12" text-anchor="middle">BUILD / LEARN</text>
+  <g fill="#f1fb55" stroke="#151718" stroke-width="1">
+    <rect x="1023" y="41" width="8" height="8"/>
+    <rect x="1023" y="274" width="8" height="8"/>
+    <rect x="1130" y="132" width="8" height="8"/>
+    <rect x="751" y="156" width="8" height="8"/>
+  </g>
+  <rect class="packet" x="0" y="156" width="8" height="8" fill="#f1fb55" stroke="#151718" stroke-width="1">
+    <animate attributeName="x" values="756;862;756" dur="8s" repeatCount="indefinite"/>
+  </rect>
+</svg>
