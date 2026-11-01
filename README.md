@@ -40,23 +40,23 @@ I build web applications and AI tools, with projects in student learning, campus
 <table align="center">
   <tr>
     <td><strong>Languages</strong></td>
-    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts&amp;theme=dark"><img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts&amp;theme=light" height="40" alt="C, C++, Java, Python, JavaScript, TypeScript"></picture></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Cjava%2Cpy%2Cjs%2Cts&amp;theme=dark"><img src="https://skillicons.dev/icons?i=c%2Ccpp%2Cjava%2Cpy%2Cjs%2Cts&amp;theme=light" height="40" alt="C, C++, Java, Python, JavaScript, TypeScript"></picture></td>
   </tr>
   <tr>
     <td><strong>Frontend</strong></td>
-    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,redux&amp;theme=dark"><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,redux&amp;theme=light" height="40" alt="HTML, CSS, React, Next.js, Tailwind CSS, Redux"></picture></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Creact%2Cnextjs%2Ctailwind%2Credux&amp;theme=dark"><img src="https://skillicons.dev/icons?i=html%2Ccss%2Creact%2Cnextjs%2Ctailwind%2Credux&amp;theme=light" height="40" alt="HTML, CSS, React, Next.js, Tailwind CSS, Redux"></picture></td>
   </tr>
   <tr>
     <td><strong>Backend</strong></td>
-    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,fastapi,django&amp;theme=dark"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django&amp;theme=light" height="40" alt="Node.js, Express, FastAPI, Django"></picture></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cfastapi%2Cdjango&amp;theme=dark"><img src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cfastapi%2Cdjango&amp;theme=light" height="40" alt="Node.js, Express, FastAPI, Django"></picture></td>
   </tr>
   <tr>
     <td><strong>AI &amp; data</strong></td>
-    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,mongodb,mysql,firebase&amp;theme=dark"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,mongodb,mysql,firebase&amp;theme=light" height="40" alt="PyTorch, TensorFlow, scikit-learn, MongoDB, MySQL, Firebase"></picture></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch%2Ctensorflow%2Csklearn%2Cmongodb%2Cmysql%2Cfirebase&amp;theme=dark"><img src="https://skillicons.dev/icons?i=pytorch%2Ctensorflow%2Csklearn%2Cmongodb%2Cmysql%2Cfirebase&amp;theme=light" height="40" alt="PyTorch, TensorFlow, scikit-learn, MongoDB, MySQL, Firebase"></picture></td>
   </tr>
   <tr>
     <td><strong>Tools &amp; creative</strong></td>
-    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,arduino,ps,pr&amp;theme=dark"><img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,ps,pr&amp;theme=light" height="40" alt="Git, GitHub, VS Code, Arduino, Photoshop, Premiere Pro"></picture></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cvscode%2Carduino%2Cps%2Cpr&amp;theme=dark"><img src="https://skillicons.dev/icons?i=git%2Cgithub%2Cvscode%2Carduino%2Cps%2Cpr&amp;theme=light" height="40" alt="Git, GitHub, VS Code, Arduino, Photoshop, Premiere Pro"></picture></td>
   </tr>
 </table>
 
